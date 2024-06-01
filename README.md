@@ -3,6 +3,7 @@
  - :mortar_board: I graduated from GATE Program, Suankularb Wittayalai School.
 ## Topic of interest
   - Machine learning
+  - Data analysis
   - Web development
   - Physics and Astronomy
   - Anime, Light novel, and J-POP music
